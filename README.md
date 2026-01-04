@@ -10,7 +10,7 @@
        OS   :  Windows 11
       Shell :  putty / cmd
   Projects  :  bots, web apps, automations
-   Discord  :  @19.94
+   Telegram  :  @kkikk
 
 ----------------
 ```
