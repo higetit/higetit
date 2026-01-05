@@ -8,7 +8,7 @@
 
       User  :  r00t 
        OS   :  Windows 11
-      Shell :  putty / cmd
+      Shell :  putty / cmd /zsh
   Projects  :  bots, web apps, automations
    Telegram  :  @kkikk
 
